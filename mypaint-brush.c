@@ -34,7 +34,8 @@
 #include "helpers.h"
 #include "rng-double.h"
 
-#include <json.h>
+/* #include <json.h> */
+#include <json-c/json.h>
 
 #ifdef _MSC_VER
 #if _MSC_VER < 1700     // Visual Studio 2012 and later has isfinite and roundf
