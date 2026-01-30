@@ -8,7 +8,6 @@
 *#
 .emacs.*
 .sconsign.dblite
-*-gen.h
 mypaint-config.h
 options.cache
 *.mo
@@ -30,7 +29,6 @@ tests/*.trs
 tests/gegl/*.log
 tests/gegl/*.trs
 
-config.h
 config.h.in
 Makefile
 Makefile.in
